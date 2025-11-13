@@ -12,7 +12,7 @@ The goal is to understand why customers return products, quantify how refunds af
 
 ## 📊 Project Overview
 
-- Analyzed sales and refund data to understand the financial effect of product returns  
+- Analyzed sales and refund data to understand the financial effect of product returns 
 - Calculated refund amounts by category:
   - `ref_turnover`  
   - `ref_ship`  
